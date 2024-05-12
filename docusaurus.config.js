@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'images/favicon.ico',
   organizationName: 'ExinOne', // Usually your GitHub org/user name.
-  projectName: 'support.exinone.com', // Usually your repo name.
+  projectName: 'exinonesupport', // Usually your repo name.
   trailingSlash: false,
   i18n: {
     defaultLocale: 'en',

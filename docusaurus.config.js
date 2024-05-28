@@ -27,17 +27,6 @@ module.exports = {
   },
   themeConfig: {
 
-    // https://docsearch.algolia.com/docs/legacy/run-your-own/
-    // algolia: {
-    //   apiKey: '2d81009f52b49499743802eee11ecf11',
-    //   indexName: 'prod_support_exinone',
-
-    //   // Optional: see doc section below
-    //   contextualSearch: true,
-
-    //   // Optional: see doc section below
-    //   appId: '3K3D3FYNPZ',
-    // },
 
     navbar: {
       title: 'ExinOne Support',

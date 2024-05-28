@@ -8,11 +8,11 @@ module.exports = {
   url: 'https://support.exinone.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'images/favicon.ico',
   organizationName: 'ExinOne', // Usually your GitHub org/user name.
   projectName: 'exinonesupport', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-CN'],
@@ -26,8 +26,6 @@ module.exports = {
     }
   },
   themeConfig: {
-
-
     navbar: {
       title: 'ExinOne Support',
       logo: {
@@ -91,8 +89,6 @@ module.exports = {
           sidebarPath: require.resolve('./sidebar.docs.js'),
           path: 'docs',
           routeBasePath: '/docs',
-           // Please change this to your repo.
-           //editUrl: 'https://github.com/ExinOne/support.exinone.com/tree/main/developers-docs',
           editLocalizedFiles: true,
         },
         theme: {

@@ -2,12 +2,7 @@
 title: 关于 ExinOne 迁移的常见问题解答
 ---
 
-
-
-Mixin 于 2024 年 2 月 9 日更新了新版 Mixin App，对应的版本号为；
-
-- 安卓：1.5.0
-- iOS：1.5.0
+目前 Mixin 的版本在 1.8 以上，如果您的 Mixin 版本不在 1.8 以上，请及时更新。
 
 建议您通过 [此链接](https://messenger.mixin.one/download) 更新 Mixin 到以上版本，以获得完整的使用体验。
 

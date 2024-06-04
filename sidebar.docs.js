@@ -11,7 +11,6 @@ module.exports = {
         'Instructions/DelayedRelease',
         'Instructions/About-BOX-Trading',
         'Instructions/TradingDepth',
-        'Instructions/faq',
         'Instructions/AutoInvest',
         'Instructions/InvestData',
       ],
@@ -23,12 +22,10 @@ module.exports = {
       items: [
         'Features/TradingAccount',
         'Features/Savings',
-        'Features/Affiliate',
         'Features/EPC',
         'Features/Loans',
         'Features/AutoInvest',
         'Features/Addassets',
-        'Features/SmallAmountWithdraw',
       ],
     },            
     {

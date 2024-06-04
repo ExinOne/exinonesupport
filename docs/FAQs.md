@@ -10,12 +10,6 @@ Q: What is the relationship between ExinOne and Mixin?
 
 A: You can compare Mixin Messenger to Telegram. ExinOne is a small application (BOT) inside it. Similar BOTs are ExinPool, MixSwap, MixPay, etc. The Exin team is an early development team of the Mixin ecosystem, running some products independently.
 
-Q: Is Mixin secure?
-
-A: Mixin Wallet is [fully open source](https://github.com/MixinNetwork) and currently manages over a billion dollars in assets on the Mixin Network and has never had any incidents to date. The above is some information. You need to make your own judgment as to whether it is safe or not.
-
-
-
 ## About ExinOne
 
 Q：How to switch language & Quotation
@@ -55,10 +49,6 @@ Q: How many orders can I hang at most?
 A: Currently, you can hang 50 orders, and the pending orders will be automatically canceled if they are not entirely filled for 90 days.
 
 
-
-Q: Can BOX and XIN be supported for limit orders?
-
-A: Currently not supported, will be supported in the future. Please pay attention to relevant announcements.
 
 
 

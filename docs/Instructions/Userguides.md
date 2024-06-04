@@ -2,8 +2,6 @@
 title: New User's Guide
 ---
 
-
-
 Are you new to Mixin and ExinOne and still have no idea about this product at all?
 
 Don't worry. Please follow along with this article. You will have some basic knowledge about this product. Start now~!
@@ -46,7 +44,11 @@ ExinOne robot itself is a customer service system. You can directly leave a mess
 
 At the bottom of the homepage, there is a wallet entrance. The first time you click on it, you need to set a 6-digit password, please remember this password.
 
- ![image-20230713170904789](../images/wallet.png)
+
+
+![image-20240531215749847](./assets/image-20240531215749847.png)
+
+
 
 If you can't find this button, you can click [this link](mixin://transfer/61103d28-3ac2-44a2-ae34-bd956070dab1) to trigger the transfer operation and set the password.
 

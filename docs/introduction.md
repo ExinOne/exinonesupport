@@ -16,7 +16,6 @@ ExinOne is a bot developed by the Exin team on Mixin Messenger to provide privac
 ExinOne offers the following services:
 
 - Markets: ExinOne allows you to view information about cryptocurrency markets and set price alerts;
-
 - Trading: ExinOne aggregates the mainstream exchanges and synchronizes the trading depth of the exchanges, so you don't need to register for a separate exchange account and enjoy the trading depth of the exchanges in a safe and private way without KYC, and ExinOne supports three trading modes at present:
 
   - Swap: you can trade any coin with any currency. ExinOne will automatically choose the best trading route for you;
@@ -26,13 +25,9 @@ ExinOne offers the following services:
   - Auto Invest: You can make single or multi-currency Invest through ExinOne; 
 
   - ExinOne will provide more strategy trading functions in the future. Please look forward to it.
-
 - Savings: ExinOne's "Savings" feature provides you with some assets for wealth management services. Currently supported assets are:
   - USDT, XIN, EOS.
-
 - Loans: ExinOne provides a pledge lending service. You can pledge your own assets to get the lending quota and lend USDT-TRC20.
-
-- Wallet: ExinOne integrates the Mixin Wallet function, which allows you to inquire and operate your Mixin Wallet assets within ExinOne.
 
 ## Introduction of Features
 
@@ -95,7 +90,7 @@ Used to display the asset information locked when you use limit orders, strategy
 
 Trading Account: The trading account is an account provided by ExinOne for Mixin users to trade tokens from various exchanges within Mixin directly.
 
-Savings: This feature offers token current wealth management services. USDT and pUSD deposited in Current Treasure can also be used for Auto investment plan payments.
+Savings: This feature offers token current wealth management services. USDT deposited in Savings Account can also be used for Auto investment plan payments.
 
 Delegated Account: The tokens you place as orders will be held in this account. Once the order is completed (including cancellation), your entrusted assets will be returned to your payment account.
 

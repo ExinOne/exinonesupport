@@ -1,41 +1,37 @@
 ---
-title: ExinOne Privacy Agreement
+title: ExinOne Privacy Policy
 ---
 
-EXINONE CO.,LIMITED is a company incorporated under the laws of the Republic of Seychelles ("ExinOne" or "we"). This privacy policy ("Terms") is signed by you, the user, and EXINONE CO.,LIMITED. This Privacy Statement explains how ExinOne collects, uses, shares and protects user information obtained through the Products. When collecting personal information specified by the user, we do so for legitimate legal and related specific needs. Users have the right to decide whether to provide non-essential information. The absence of necessary information may result in your inability to use certain privileges. By using the ExinOne platform and its services, you agree to all of the terms and conditions set forth herein. We will continue to adjust and improve this Privacy Policy in response to changes in the law and in the way personal data is collected and used. Changes will be posted on our website, and if your information is used for purposes other than those described herein, we will notify you in advance and ask for your consent. In accordance with the EEA (European Economic Area) regulations on the processing of personal information, elements of the General Data Protection Regulation (GDPR) have been added to the latest Privacy Policy. 
+**EXINONE CO., LIMITED** (hereinafter referred to as "ExinOne" or "we"), is a company established under the laws of the Republic of Seychelles. We are committed to protecting your privacy and have established this Privacy Policy (hereinafter referred to as "this Policy") to explain how we collect, use, share, and protect the user information obtained through our platform. By using the ExinOne platform and its services, you agree to all the terms outlined in this Policy.
 
-The information we collect is as follows.
+### Information We Collect
 
-Information required at the time of registration.
+1. **Registration Information**: When registering, we collect your Mixin ID to create and manage your account.
 
-When registering for an ExinOne account, you will be asked to provide personal information including cell phone number, verification code, payment password, email address, etc.
+2. **Platform Usage Information**: During your use of the platform, we collect and monitor relevant data, including but not limited to access dates and times, device identifiers, and IP addresses. This information may be obtained directly by ExinOne or through third-party service providers, ensuring platform compatibility and user experience, and providing data support during investigations.
 
-Information required to verify the identity of the user.
+3. **Transaction Information**: We collect users' transaction information, including but not limited to account balances, transaction records, deposits, withdrawals, and orders. This data is used to provide you with relevant services and support.
 
-In order to comply with global industry regulatory standards including Anti-Money Laundering (AML), Know Your Customer (KYC) and Counter Terrorism Financing (CTF), we are required to collect user identification documents and this applies to all accounts on the Platform.
+### Reasons for Collecting Information
 
-Information on the use of the platform
+1. **User Protection**: The information we collect is used to protect the platform and user accounts from spam, phishing, and Distributed Denial of Service (DDoS) attacks, analyze transaction activities to detect fraud and money laundering, and prevent abnormal fund flows.
 
-During the course of a user's use of the Platform, we monitor and collect data including, but not limited to, date and time of access, device identification, operating system, browser, and IP address. This information may be obtained directly from ExinOne or third party service providers. The data is collected primarily for the purpose of systematically ensuring that our interface and presentation can be adapted to all users of the platform, and also to provide data support during encounter surveys.
-Transaction Information
+2. **User Identification**: We use the collected information to maintain our services and verify user identities, including using IP addresses and unique identifiers stored in cookies.
 
-For all users of the platform, we collect transaction information including but not limited to account balances, transaction records, top-ups, withdrawals, orders, etc. These data are collected to monitor suspicious transactions. This data is collected to monitor suspicious transactions, to prevent user fraud and to assist in the adjudication of legal cases. We collect user information for the following reasons.
+3. **Compliance with Laws and Regulations**: In compliance with regulatory and governmental requirements in various countries, we respect user privacy and data security and will not disclose personal information to third parties without legal team review and user consent (except in cases of judicial review).
 
-To protect users
+4. **Optimizing Product Experience**: By analyzing website data, we continuously optimize the product experience and promptly resolve technical issues encountered during use.
 
-All information collected by the platform will be used to protect the platform, user accounts and files from spam, phishing and distributed denial of service (DDoS) attacks, to analyze transaction activities in order to detect fraud and money laundering, and to avoid abnormal flow of funds on the platform.
+5. **Communication with Users**: We conduct all communications with you through Mixin.
 
-Identify users
+6. **Enforcing Terms and Agreements**: We conduct reviews and audits to prevent user violations, maintain user interests, carefully select and execute agreements with third parties, and strictly address all violations of platform usage terms and privacy policies.
 
-The information collected is also used to maintain our services and to verify the identity of users. We use the IP address and unique identifier stored in your cookie to verify your identity and provide services. Due to legal obligations and system requirements, we cannot provide services to you without any identification, contact information and transaction-related information. 
+### User Data Protection Measures
 
-3、Compliance with legal and regulatory requirements When implementing regulatory and governmental requirements in various countries as well as general requests from users, ExinOne respects personal privacy and data security as a basic principle. We will not disclose and provide personal information to third parties without the review of the legal team and consent of the user (except in cases such as judicial review). 
+To ensure the security of user information, we have implemented a series of security measures, including but not limited to Secure Sockets Layer (SSL) encryption, anonymization, internal data access restrictions, and strict data encryption. However, electronic storage forms on the internet cannot guarantee 100% information security; therefore, we recommend that you understand and take independent security measures to protect personal information.
 
-4、Optimize product experience The technical team of the platform will analyze the website data to better understand the experience of using the products, and then carry out continuous experience optimization through data analysis, and solve various technical problems encountered in the process of use in a timely manner. 
+If you suspect that your personal information, especially account or password information, has been compromised, please contact platform staff immediately to freeze your account.
 
-5、Communication with users The platform collects users' personal information such as email addresses to help users resolve work orders and notify them of login, transactions, and account security related activities in a timely manner, if the user's identity cannot be verified prior to communication, we will not be able to respond to requests and questions submitted by users in a timely manner, and all communication will be properly stored for ExinOne's internal use to review accuracy.
-Enforcement of other terms and agreements
+### Contact Us
 
-The platform will continuously review and review to prevent potential violations by users. For the sake of fairness in transactions and to protect the interests of our users, we will carefully select and enforce agreements with third parties and take all violations of the Platform's Terms of Use, General Conditions and Privacy Statement seriously, and ExinOne reserves the right to provide services to any user who engages in activities that violate these terms. How user data is protected. The platform is designed to keep user information safe from loss, misuse and tampering. We have made a series of security measures, including but not limited to: Secure Socket Layer encryption technology, anonymity, internal data access restrictions and strict data encryption, etc. However, the form of electronic storage on the Internet cannot guarantee 100% information security, therefore, we recommend that you understand and take independent security measures to protect the security of personal information. If you suspect that personal information, especially account or password information, has been compromised, please contact the platform staff immediately to freeze the account. Contact Us. ExinOne respects the freedom and rights of all users. If you have any questions or concerns about this privacy policy, please feel free to contact us through the contact information provided on the official website.
-
-
+ExinOne respects the freedom and rights of all users. If you have any questions or concerns about this Privacy Policy, please contact us through the ExinOne bot.

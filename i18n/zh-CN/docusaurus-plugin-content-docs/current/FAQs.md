@@ -4,10 +4,6 @@ title: 常见问题
 
 ## 关于 Mixin 的使用
 
-Q：“新生”（Reborn）App 和 Mixin Messenger 是什么关系
-
-A：新生 App 是简化版的 Mixin，它相比于 Mixin，去掉了一些跟加密货币相关的功能，无法聊天。但是新生 App 可以在中国区应用商店下载，我们强烈建议您使用 Mixin 以获得完整的使用体验。
-
 Q：Mixin 怎么下载？
 
 A：请通过浏览器打开 [下载链接](https://channel.mixin.space/dl) 进行下载，安卓手机可以直接下载安装 APK 文件，苹果手机用户需要使用海外（如美国）的 AppleID 进行下载使用。
@@ -15,12 +11,6 @@ A：请通过浏览器打开 [下载链接](https://channel.mixin.space/dl) 进�
 Q：ExinOne 和 Mixin 是什么关系？
 
 A：可以把 Mixin Messenger 类比于微信，ExinOne 是它里面的一个小程序（BOT），类似的 BOT 还有 ExinPool，MixSwap，MixPay 等等。Exin 团队是 Mixin 生态的早期开发团队，独立运营一些产品。
-
-Q：Mixin 安全吗？
-
-A：Mixin 钱包是 [完全开源](https://github.com/MixinNetwork) 的，目前在 Mixin Network 上管理着超过十亿美金的资产，迄今为止从未出现过任何事故，以上是一些信息，对于它是否安全需要您自行判断。
-
-
 
 ## 关于 ExinOne
 
@@ -30,13 +20,11 @@ A：ExinOne 不支持注销，注销 Mixin 就相当于注销了 ExinOne。
 
 Q：我注册了 ExinOne，会被收费吗？
 
-A：查看、点击 ExinOne 不会收取您任何费用，ExinOne 可能会在您交易时收取一定的服务费，也可能不收取，请查看[定价规则](./User-Agreement/Pricing)
+A：查看、点击 ExinOne 不会收取您任何费用，ExinOne 可能会收取交易手续费，也可能不收取，请查看[定价规则](./User-Agreement/Pricing)
 
-Q：怎么切换语言 & 计价方式
+Q：怎么切换语言 & 计价方式？
 
-A：点击 ExinOne 左上角的头像可以看到相应的调整设置
-
-
+A：点击 ExinOne 左上角的头像可以看到相应的调整设置。
 
 ## 关于行情
 
@@ -57,13 +45,7 @@ A：闪兑能够使用任意币交易任意币，并且支持一些币币不支�
 
 Q：我最多可以挂多少个单？
 
-A：目前，您可以挂 50 个订单，挂单如果 90 天没有完全成交，将自动取消。
-
-Q：挂单可以支持 XIN 吗？
-
-A：目前暂时不支持，未来会支持，请留意相关公告。
-
-
+A：目前，您可以挂 100 个订单，挂单如果 90 天没有完全成交，将自动取消。
 
 ## 关于定投
 

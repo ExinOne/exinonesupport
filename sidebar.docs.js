@@ -13,6 +13,8 @@ module.exports = {
         'Instructions/TradingDepth',
         'Instructions/AutoInvest',
         'Instructions/InvestData',
+        'Instructions/fail2open',
+
       ],
     },  
     {

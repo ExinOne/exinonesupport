@@ -97,7 +97,7 @@ EPC 账户内的 EPC 也支持转出，只需将上述的“划转”页面内�
 
 9. **建议 & BUG**：我们非常注重您的使用体验，如果您在使用过程中遇到任何问题或建议，欢迎与我们沟通。
 
-本文的最新版本在 [此链接](https://support.exinone.com/zh-CN/docs/Features/EPC) 内，详细规则请以此链接内容为准。
+本文的最新版本在 [此链接](https://support.exinone.com/zh-CN/Features/EPC) 内，详细规则请以此链接内容为准。
 
 请注意：EPC 仅用于 Exin 相关业务使用，获取方式均为赠送，不具备炒作属性，ExinOne 保留调整 EPC 获取方式的权利，最终解释权归 Exin 所有。
 

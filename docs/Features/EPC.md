@@ -75,6 +75,6 @@ Depending on the rankings, different proportions of rewards can be obtained:
 
 
 
-The latest version of this document can be found at [this link](https://support.exinone.com/docs/Features/EPC). Please refer to the content of this link for detailed rules. 
+The latest version of this document can be found at [this link](https://support.exinone.com/Features/EPC). Please refer to the content of this link for detailed rules. 
 
 **Please note**: EPC is solely for use in Exin-related operations. All acquisition methods are through gifting, and it is not intended for speculation. ExinOne reserves the right to adjust the methods of obtaining EPC, and the final interpretation belongs to Exin.

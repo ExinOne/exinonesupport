@@ -89,7 +89,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebar.docs.js'),
+          sidebarPath: require.resolve('./sidebars.js'),
           path: 'docs',
           routeBasePath: '/',  // 修改这里，将文档作为主页
           editLocalizedFiles: true,

@@ -115,7 +115,7 @@ Also, this bot allows you to check the time when the recharge arrives. If you fi
 
 As we all know, Mixin Wallet is a secure decentralized wallet and people are very willing to deposit their assets into Mixin Wallet to store their assets safely, while ExinOne provides a trading account which is a centralized account managed by ExinOne, users naturally worry whether their assets are safe to be stored in the trading account.
 
-Speaking of which, first we need to understand the specifics of trading accounts, see [this article](/docs/Features/TradingAccount), which describes the role of trading accounts:
+Speaking of which, first we need to understand the specifics of trading accounts, see [this article](/Features/TradingAccount/), which describes the role of trading accounts:
 
 1. pledge assets to obtain borrowing credits;
 2. provide liquidity to ExinOne;
@@ -145,7 +145,7 @@ As you can see above, you have a general understanding of how ExinOne offers tra
 - What happens if the token in question is illiquid?
 - What if Mixin does not support this public chain token?
 
-This is the problem that "[Trading Account](/docs/Features/TradingAccount)" addresses:
+This is the problem that "[Trading Account](/Features/TradingAccount/)" addresses:
 
 - Restrict some tokens to be credited to the trading account only, so there is no need to withdraw all coins to Mixin, and users can trade the relevant tokens directly;
 - Solve the problem of trading tokens of public chains that are not supported by Mixin and can be traded freely;

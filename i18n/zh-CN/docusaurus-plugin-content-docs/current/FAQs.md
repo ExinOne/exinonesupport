@@ -20,7 +20,7 @@ A：ExinOne 不支持注销，注销 Mixin 就相当于注销了 ExinOne。
 
 Q：我注册了 ExinOne，会被收费吗？
 
-A：查看、点击 ExinOne 不会收取您任何费用，ExinOne 可能会收取交易手续费，也可能不收取，请查看[定价规则](./User-Agreement/Pricing)
+A：ExinOne 不会向您收取任何费用，但是在您使用 ExinOne 的服务时，可能会产生一些费用，具体请参考[费率说明](../About-Us/Pricing.md)。
 
 Q：怎么切换语言 & 计价方式？
 
@@ -90,4 +90,3 @@ Tether 在多个区块链上都有发行，因此存在不同的版本。以下�
 在 Mixin 里，可以看到不同角标对应着不同颜色的角标。
 
 ![image-20231021193306494](./assets/image-20231021193306494.png)
-

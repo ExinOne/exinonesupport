@@ -4,13 +4,11 @@ title: 关于 BOX 交易的详细说明
 
 亲爱的用户：
 
-BOX 为李笑来个人设计发行的 ETF，是由 BTC、ETH、EOS、DOT、MOB、XIN、UNI 按照固定比例兑换而来，目前用户在 ExinOne 进行的 BOX 有关的交易买入/卖出，均为 ExinOne 平台代理交易，具体的实现过程如下：
+BOX 为李笑来个人设计发行的 ETF，是由 BTC、ETH、UNI、DOT、SOL、XIN 按照固定比例兑换而来，目前用户在 ExinOne 进行的 BOX 有关的交易买入/卖出，均为 ExinOne 平台代理交易，具体的实现过程如下：
 
 **1、USDT 兑换 BOX**
 
-用户在 ExinOne 平台使用 USDT 兑换 BOX 时，其背后的实现过程如下：
-
-![img](./1.png)
+用户在 ExinOne 平台使用 USDT 兑换 BOX 时，由 ExinOne 通过 BOX 项目官网 B.watch 提供的 API 完成兑换。
 
 **2、定投 BOX**
 

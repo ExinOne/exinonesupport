@@ -9,6 +9,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'ignore',
+  onBrokenAnchors: 'warn',
   favicon: 'images/favicon.ico',
   organizationName: 'ExinOne', // Usually your GitHub org/user name.
   projectName: 'exinonesupport', // Usually your repo name.

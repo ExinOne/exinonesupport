@@ -1,5 +1,5 @@
 ---
-title: 打不开 ExinOne 怎么办？
+title: What should I do if I can't open ExinOne?
 ---
 
 If you cannot enter the ExinOne page normally, please refer to the following process to troubleshoot:

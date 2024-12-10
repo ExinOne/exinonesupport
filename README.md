@@ -17,7 +17,7 @@ yarn start
 Run zh-CN :
 
 ```bash
-yarn startzh
+yarn run startzh
 ```
 
 ## Build 

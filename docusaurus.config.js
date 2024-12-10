@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ExinOne`,
+      copyright: `Copyright ${new Date().getFullYear()} ExinOne`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -91,7 +91,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebar.docs.js'),
           path: 'docs',
-          routeBasePath: '/docs',
+          routeBasePath: '/',  // 修改这里，将文档作为主页
           editLocalizedFiles: true,
         },
         theme: {

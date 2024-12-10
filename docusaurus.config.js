@@ -36,7 +36,7 @@ module.exports = {
         src: 'images/logo.png',
       },
       items: [
-        {to: '/docs/introduction/', label: 'Docs', position: 'left'},
+        {to: '/introduction', label: 'Docs', position: 'left'},
         {
           href: 'https://developers.exinone.com',
           label: 'Developers',

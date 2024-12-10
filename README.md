@@ -28,3 +28,4 @@ yarn build
 ```
 
 Static site generated at path `./build`
+

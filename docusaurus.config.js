@@ -20,9 +20,11 @@ module.exports = {
     localeConfigs: {
       'en': {
         label: 'English',
+        htmlLang: 'en-US', // 添加这行
       },
       'zh-CN': {
         label: '简体中文',
+        htmlLang: 'zh-CN', // 添加这行
       }
     }
   },

@@ -57,5 +57,4 @@ A: ExinOne will adjust the credited wallet based on whether the current token is
 
 Q: Didn't you say you have enough assets, why sometimes the coins can't be traded and sold?
 
-A: Due to ExinOne's [business model](/docs/Instructions/TradingModel), the relevant assets may not all be on the exchange, if some of the assets are in Mixin, when you have a large transaction, there may be a situation that the exchange liquidity is not enough, at this time ExinOne will supplement the liquidity by borrowing coins from the exchange/transferring You can wait patiently and try again later.
-
+A: Due to ExinOne's [business model](/Instructions/TradingModel), the relevant assets may not all be on the exchange, if some of the assets are in Mixin, when you have a large transaction, there may be a situation that the exchange liquidity is not enough, at this time ExinOne will supplement the liquidity by borrowing coins from the exchange/transferring You can wait patiently and try again later.

@@ -18,13 +18,13 @@ module.exports = {
     defaultLocale: 'en',
     locales: ['en', 'zh-CN'],
     localeConfigs: {
-      'en': {
+      en: {
         label: 'English',
-        htmlLang: 'en-US', // 添加这行
+        htmlLang: 'en-US'
       },
       'zh-CN': {
         label: '简体中文',
-        htmlLang: 'zh-CN', // 添加这行
+        htmlLang: 'zh-CN'
       }
     }
   },

@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'ExinOne Supports',
   tagline: 'ExinOne User manual Documents',
-  url: 'https://support.exinone.com',
+  url: 'http://34.101.82.177:20080',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'ignore',
@@ -13,7 +13,7 @@ module.exports = {
   favicon: 'images/favicon.ico',
   organizationName: 'ExinOne', // Usually your GitHub org/user name.
   projectName: 'exinonesupport', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-CN'],

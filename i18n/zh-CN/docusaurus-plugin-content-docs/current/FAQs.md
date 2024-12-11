@@ -20,7 +20,7 @@ A：ExinOne 不支持注销，注销 Mixin 就相当于注销了 ExinOne。
 
 Q：我注册了 ExinOne，会被收费吗？
 
-A：ExinOne 不会向您收取任何费用，但是在您使用 ExinOne 的服务时，可能会产生一些费用，具体请参考[费率说明](../About-Us/Pricing.md)。
+A：ExinOne 不会向您收取任何费用，但是在您使用 ExinOne 的服务时，可能会产生一些费用，具体请参考[定价页面](/About-Us/Pricing)。
 
 Q：怎么切换语言 & 计价方式？
 

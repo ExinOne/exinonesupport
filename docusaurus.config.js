@@ -13,7 +13,7 @@ module.exports = {
   favicon: 'images/favicon.ico',
   organizationName: 'ExinOne', // Usually your GitHub org/user name.
   projectName: 'exinonesupport', // Usually your repo name.
-  trailingSlash: true,
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-CN'],
